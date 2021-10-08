@@ -12,7 +12,7 @@
 ```diff
 - 注意！
 このプログラムではChromeDriverが必要です。<br>
-ですので、使用する場合は「Chromedriverの入れ方.md」を参照しながらインストールしてプログラム内変数「chrome_driver_path」のパスを書き換えてください。
+ですので、使用する場合は「ChromeDriverの入れ方.md」を参照しながらインストールしてプログラム内変数「chrome_driver_path」のパスを書き換えてください。
 ```
 
 ## お問い合わせ<br>
