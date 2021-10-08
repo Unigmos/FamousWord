@@ -1,0 +1,2 @@
+Python_Version:3.9.6
+OS_Name       :Windows
