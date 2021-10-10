@@ -1,9 +1,15 @@
 # FamousWord<br>
+検索結果数の多いものを調べるアルゴリズム
 
 ## 機能<br>
+input.txtに入っているキーワードをGoogleで検索し検索結果数を出力するプログラムです。
 
 ## ざっくりとした仕組み<br>
-
+input.txtを読み込む<br>
+↓<br>
+seleniumで検索<br>
+↓<br>
+出力を「output.txt」「output.csv」に書き込む
 
 ## 動かない場合<br>
 ・実行できない！<br>
